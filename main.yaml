@@ -1,0 +1,557 @@
+- All Main Quest Extended
+- Goal Finir Zelda Botw avec toutes les quêtes principale et tuer Calam
+- Wr par Lime .link(https://www.twitch.tv/videos/1067492530)
+- Cartes des souvenirs .link(https://www.millenium.org/guide/260695.html)
+- ATTENTION GARDE BIEN TON ARC DE L'AIGLE JUSQU'AU SHRINE DLC DE NABORIS
+
+- Great Plateau:
+  - SoR clip:
+        coord: [-1073,1924.5]
+  - _Equipment::Shield<Sheild>:
+        coord: [-952.875,1960.3125]
+  - _Equipment::Weapon<Lance Boko>:
+        coord: [-942.9375,1959.75]
+  - _Material<6 Piment>:
+        comment: Tu dois en avoir 3 au Piaf pour L'IST
+        coord: [-962.6875,1955.75]
+  - _Material<3 ou 5 Champi>:
+        comment: Et pareil Tu dois en avoir 3 au Piaf
+        coord: [-959.1875,1964.6875]
+  - Talk to .npc(Zelda):
+        icon: zelda
+        coord: [-902.5625,2000.8125]
+  - _Equipment::Bow<Arc pour BLSS>:
+        coord: [-832.125,1963.0625]
+        notes: .link([Shield clip] https://www.youtube.com/watch?v=oklKNwEPvYY)
+  - _Shrine::JaBaij:
+        comment: BLSS to Bombs et Sheild Clip .link([Sheild Clip]https://www.youtube.com/watch?v=INljCJkbUqA)
+        notes: Fais le Shrine normalement te prends pas la tête avec un wind Bomb fait juste le shrine en mode optimiser .link([Sans Wind Bomb]https://www.youtube.com/watch?v=L2LHd5FCqb0)
+  # Towers are identified by the region
+  - _Tower::GreatPlateau:
+        comment: Tu fais le Setup BLSS jusqu'a Tower puis skip les cutscenes et tu FDC quand tu sautes de la tour
+        notes: .link([BLSS to Tower à 9:38min]https://www.youtube.com/watch?v=yC-SEJRYDMc)
+  - _Shrine::OwaDaim:
+       movements:
+        - to: [-557.125,1685.625]
+        - to: [-671.625,1514.3125]
+       comment: Une fois que le vieux disparait tu fais un BLSS avec le tuto AD de Arna tu verras il est  très simple et plus rapide que faire a pieds le trajet et aussi tu prends le coffre DLC qui donne un ruby
+       notes: fais le shrine de façon opti sans wind bomb .link([BLSS to Mag]https://youtu.be/SAHH3dUmQXo) .link([Mag Optimiser à 15:12min]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+  - _Shrine::OwaDaim:
+        movements:
+        - [-658,1489.375]
+        - [-670,1952.5]
+        - [-827.75,2255.75]
+        - [-925.0625,2320.125]
+        comment: Du coup BLSS vers Stasis t'as 2 choix soit tu fais le blss comme une run classique donc le plus dur en autre ou sinon en 2 temps qui perds un peu mais plus simple .link([BLSS classique à 14:45]https://www.youtube.com/watch?v=7rgXW9jIgbM) .link([Le BLSS plus Simple]https://youtu.be/cvttnBqSDNI)
+        notes: Après tu as Tree Wind Bomb aka le Wind Bomb le plus chiant quand tu débutes du coup je te mets le tuto de Nabla mais dit toi que tu dois Sauté mettre la bomb puis tempo un tout petit peux le bullet time et a 1 quart d'endurance dépensé tu mets la carré puis tu reviens sur la ronde et tu l'explose .link([Tree Wind Bomb]https://www.youtube.com/watch?v=jv5uN4_hf_o) .link([Stasis sans Wind Bomb]https://youtu.be/PcDAbL_6Gwk)
+  - _Shrine::KehNamut:
+        movements:
+        - [-938.75,2329.5]
+        - [-974.25,2289.25]
+        - [-1076,2107]
+        - [-1332,2004]
+        - [-1433.25,1992]
+        comment: Pour aller a Cryo je te redirige vers le tuto de Echec avec le rock launch il explique vraiment bien pour le coup et après tu as le blss le plus dur donc ne t'inquiète pas ca va bien ce passer juste il faut que tu soit efficace en Wiigle en gros bouger le stick en diagonale et aussi de bouger la cam pendant un BLSS 
+        notes: une fois que tu es dans le shrine tu fais le wind bomb .link([BLSS to Cryo]https://youtu.be/jzUIphJbd0A) .link([Méthode de BLSS par Arna]https://www.youtube.com/watch?v=DtE633IVGbY) .link([Wind Bomb Cryo à 5:23]https://www.youtube.com/watch?v=Y-7NCtooOpA) .link([Rock Launch par Echec]https://www.youtube.com/watch?v=G-F2AVa6tSo)
+  - Paraglider:
+        coord: [-811.6875,1966.8125]
+        icon: king
+        comment: BLSS to TOT .link([BLSS to TOT avec FDC à 15:18]https://www.youtube.com/watch?v=7rgXW9jIgbM)
+- IST:
+  - BLSS to Castle:
+     color: red
+     comment: BLSS en bas la où y le Boko et tu le tue pour récuper son arme puis tu vas à l'observatoir du chateau .link([BLSS]https://youtu.be/lR7KPf_mxBE)
+     icon: IST
+     movements:
+      - [-809,1965]
+      - [-252.5,-741.75]
+  - Inventaire Trie:
+     icon: IST
+     comment: alors la a l'ecrit ca va être galère du coup je te ramène sur le tuto de Arna .link([Trie Inventaire à 25:14]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+  - Wind Bomb vers quartier Principaux:
+     icon: IST
+     movements:
+      - [-247.5,-752.375]
+      - [-241.25,-894.75]
+      - [-277.625,-1021.25]
+     comment: Avant de faire les wind Bombs vérifie bien ta vie et mange si besoin un piment
+     notes: .link([Wind Bomb]https://youtu.be/EbY5nsPLYtk)
+  - BLSS to Great Fairy:
+     icon: Fairy
+     notes: .link([BLSS]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     comment: du coup une fois que tu es en haut de castle tu part en blss vers la grande fée
+     movements:
+      - [-2004,-924]
+      - [-2856,-1060]
+      - [-3500.5,-774.5]
+      - [-3544.375,-755.5]
+  - Great Fairy:
+     comment: une fois que tu es au niveau de la grande fée tu descens en paravoile doucement puis discretement tu récupères 3 fées en 1er puis 3 fleurs lame, je te conseille avant de récuperer les fées fais une save manuelle
+     icon: Fairy
+     notes: .link([Fairy]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+  - _Shrine::AkhVaquot:
+     movements:
+      - [-3558,-1047]
+      - [-3568.25,-1070.5]
+      - [-3656.25,-1757.125]
+     comment: du coup après tu te setup comme Arna et tu vas recup la meme chose que lui .link([Wind Bomb to Espadon et BLSS à 30:20]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     notes: une fois que t'es en BLSS tu vas activer le shrine ca servira pour l'Ode au Prodige
+     icon: shrine
+  - Kyl:
+     comment: Du coup Zelda elle a fini de te parler t'as eu le Shrine tu le finis pas et après tu vas parler au vieux Hibou pour lancer la quête principale des Piafs tu fais jusqu'au souvenirs 
+     movements:
+      - [-3589,-1801]
+      - [-3612.75,-1824.75]
+      - [-3647.75,-1805.75]
+     icon: village
+  - IST:
+     icon: IST
+     movements:
+      - [-3644.875,-1820.1875]
+     comment: Du coup avant de faire la save devant le magasin vérifie bien que tu es que 2 fées 3 champis 3 fleurs lame et 3 piments et bien sur le ruby, vérifie aussi qu'il soit dans le bonne ordre comme Arna et une fois que tout est bon save manuelle, je te laisse regarder comment Arna fais parce que c'est pas non plus simple à expliquer comme ca .link([IST à 33:44]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     notes: et une fois que tu as réussis L'IST vend tout tes rubys
+- Medoh:
+  - _Npc::Rito<Teba>:
+     color: cyan
+     movements:
+      - [-3802.875,-2312.875]  
+     comment: apres que tu es parler a Teba va chercher l'arc de l'hirondelle puis equip les fleches archéoniques, cook aussi avec 3 piments un plat de résistance au froids pour l'Ode aux Prodige et fais tout simplement le mini-jeux de Teba et après tu récuperes l'arc dans le coffre il pourra servire
+  - Enter Medoh:
+     icon: medoh
+     comment: Je te redirige vers la vidéo de Arna en AD pour Medoh pour les canons il montre des bons repères
+     notes: .link([Canon pour Medoh a 46:05]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     movements:
+      - [-3144,-2692]
+  - .boss(WindBlight):
+     icon: blight
+     comment: je te laisse regarder toujours la vidéo de Arna mais en gros tu récuperes pas la carte prends les flèches de glace elles serviront normalement et apres tu fais le bosse avec l'arc royale et à la fin récupère le recptacle de coeur
+     notes: .link([Terminal Medoh à 49:23]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+# Warping to a divine beast
+  - _Warp::Beast::Medoh:
+     comment: Avant de partir des Piafs recupère l'arc de révali et tp Tour du Prélude
+- Caméra:
+# Towers are identified by the region
+  - _Tower::GreatPlateau:
+     color: gold
+     comment: puis Wind bomb a TOT au niveau de la fenêtre pour setup un BLSS qui ira a Impa
+  - Impa:
+     movements: 
+      - [-812,1971]
+      - [1422,1090]
+      - [1728,1106]
+      - [1800,1080]
+      - [1775,983]
+     icon: impa
+     comment: du coup tu setup le BLSS et ensuite normalement Pahya sera Unload et la porte aussi donc tu cours dans la maison de Impa et tu lui parles en disont compris apres la cutscene pour optimiser les dialogues
+  - _Shrine::TalohNaeg:
+     comment: Après Impa tu setup un Wind Bomb 1/4 vers le shrine 
+  - Torche bleu:
+     notes: .link([BLSS to Torche]https://youtu.be/KXNVXwJXxeg)
+     comment: tu fais un Wind Bomb 1/4 et tu essayes d'arriver a peut pres où je suis en tout cas la où je setup le BLSS et apres tu fais le mieux pour pas stoper le BLSS en mode que le glitch soit plus actif pendant la traverser des gorges et apres tu vise tranquillement Hateno (Elimit) et après tu stop le BLSS une fois que tu es a coté
+     icon: blue
+     movements:
+      - [1909.375,1057.6875]
+      - [1949,1129.5]
+      - [2095,1215.5]
+      - [2108,1272]
+      - [2396,1604]
+      - [3440.5,1981]
+  # Warping to tech labs
+  - TechLabHateno:
+     movements:
+      - [3647,2100.5]
+      - [3775.625,2115.375]
+     icon: labo
+     notes: .link([Wind Bomb to Labo]https://youtu.be/xl0GKwqAKY0) .link([Glitch Smuglin tuto de Aife à 5:52 tu peux retirer le sheild avec le quick menu aussi]https://www.youtube.com/watch?v=PaiNSInOfpY&list=PL5KiMRVZeiNLPnLw-jA9d_aUemcpMO9Kp&index=18)
+     comment: du coup après tu vas faire le smuglin pour avoir ta bate boko dans la main mais tu pourras courrir avec par exemple et quand tu regardes le labo y a une pierre a ta droite et bah tu te mets dessus et tu fais 1/4 wind bomb vers la ferme et rebelotte tu refais un 1/4 wind bomb vers le labo et tu allume le labo
+  - Caméra:
+     icon: camera
+     comment: tu parles a Pruha tu récupères la caméra et pour lancr la quête des souvenir prends en photo Pruha puis tu lui reparles puis TP a Kakariko 
+  # Warping to a shrine
+  - _Warp::Shrine::TalohNaeg:
+     notes: .link([Shrine to Impa])
+     comment: Après avoir TP a Kak tu vas pour parler a Impa avec un 1/4 wind bomb puis lancer pour de bon cette foutu quête et faire un wind bomb 1/4 vers le shrine
+  - Snap Great Fairy:
+     icon: quest
+     notes: .link([Great Fairy]https://youtu.be/evXxnAPF9f4)
+     movements:
+      - [1906.5,903.5]
+      - [1971.5,862]
+     comment: vue que tu es a Kakariko et qu'on devra revenir pour finir la quete des souvenir tu vas aller a la fontaine des fées et la prendre en photo
+- Souvenirs:
+  # Memories are identified by the landmark/location
+  - _Memory::LanayruRoad:
+     color: orange
+     notes: .link([1er souvenirs]https://youtu.be/wLXZSCnTjFs)
+     comment: Du coup après que tu es pris en photo la grande fée tu vas aller au niveau de l'arbre où y a des carottes enduro et tu vas casser et récuper un fagot de bois puis setup un 1/4 Wind Bomb vers la montagne et après setup un BLSS au niveau de la souche d'arbres je te conseilles de récuper les fleurs pour gagnger du temps car des fois la bombe roule et on recup les fleurs et on perds plus de temps puis t usetup le blss avec la soouche et tu vas au souvenir
+     movements:
+      - [1980.5,829]
+      - [1872.5,812.5]
+      - [2173,766.5]
+      - [2364,855]
+      - [2628,1070]
+      - [2848,1148]
+      - [3111,1149]
+    # Memories are identifieds by the landmark/location
+  - _Memory::WestNecluda:
+     comment: POur aller a ce 2ème souvenir tu vas faire des winds bomb jusqu'a ce que tu sois après le shrine de la cascade, et une fois que tu es au meme spot que moi et la carte tu setup le BLSS dans le creux que je te montres et tu essayes de lancer le BLSS, après que tu es lancé le blss tu vas venir passer a droite des Monts Geminer et une fois que tu les as passé il y a un Koroks a gauche avec 3 arbres c mon reperes pour ne plus bouger et rester droit si je passe au-dessus car le souvenir est juste ne face 
+     notes: .link([2ème Memory]https://youtu.be/U1X3ZU_po2c)
+     movements:
+      - [2939,1235]
+      - [2462,1172]
+      - [2565,1224.75]
+      - [1356,1532]
+      - [554,1903]
+      - [161,1950]
+  # Memories are identifieds by the landmark/location
+  - _Memory::LakeKolomo:
+      notes: .link([3ème Souvenir]https://youtu.be/G1m-HBZ50Ps)
+      comment: apres le souvenir tu setup un BLSS derrières l'abris juste le launch est très capricieux donc train bien et apres par en BLSS au souvenir
+  - _Memory::SacredGrounds:
+     notes: .link([4ème Souvenir]https://youtu.be/ZmxjWx43UGw)
+     comment: Après que tu es regardé le souvenir tu setup un BLSS en cassant un arbre avec la bombe carré puis tu fais en sorte d'arriver au souvenir
+  - _Memory::HyruleField:
+     comment: Après le souvenir tu paniques pas meme si y a des gardiens tu setup encore un BLSS et tu le lances via les escaliers a droite puis tu vas a la foret a cote du lac sans fond ou chez pas quoi
+     notes: .link([5ème souvenir]https://youtu.be/K80fXU5Wog0)
+- Yiga:
+  # Warping to a shrine
+  - _Warp::Shrine::KehNamut:
+     color: silver
+     comment: Après Souvenir TP Cryo
+     coord: [-1435.25,1993.5]
+  - _Shrine::DaqoChisay: 
+     movements:
+      - [-1418.8125,1990.625]
+      - [-1718,2162]
+      - [-2258,1946]
+      - [-2806,2390]
+      - [-3815.875,2820.25]
+     comment: Du coup tu fais le meme setup BLSS comme si tu allais a TOT mais tu vas aller vers les gerudos et tu parles au mec qui mate puis tu scans le shrine 
+  - Tenu Gerudo:
+     comment: et tu setup un wind bomb sur le terminal en mettant la cam vers le village et quand ton wind bomb instant et reussis tu spam dpad left et + et des que tu le sens le lag tu fais X pour la paravoile et apres si tu es trop bas pour le marchand de la tenu tu utilise Revali et tu achètes la tenu 
+     notes: .link([De Cryo au vendeur]https://youtu.be/ilq-jRQNk1g)
+     icon: tenu
+     movements:
+      - [-3818,2823]
+      - [-3263,2609.75]
+  - _Memory::KaraKaraBazaar:
+     comment: Après la tenu tu vas derières l'oasis et tu prends le souvenir
+     coord: [-3199,2528]
+  - _Shrine::ShoDantu:
+     movements:
+      - [-3881,2963.25]
+      - [-3913.5,2928.25]
+      - [-3940.75,2917.5]
+      - [-4127.75,2601.75]
+      - [-3843,1895]
+      - [-3910.25,1653.5]
+     comment: Apres que tu es acheté  la tenu tu retourne voir Riju pour lancer la quête principale puis tu parles au gardes et tu va faire un BTB vers le shrine des Yigas
+     notes: .link([Du souvenir à Riju]https://youtu.be/pd60rGJgD7c) .link([Shrine]https://youtu.be/PbKqovoUKsw)
+  - Enter Kogha:
+     notes: .link([Shrine to Kogha]https://youtu.be/qWkc_TL-I7Q)
+     icon: kogha
+     movements:
+      - [-3820,1601]
+      - [-3864,1521]
+      - [-3440,1345]
+      - [-3446.5,1293.5]
+      - [-3478,1297]
+      - [-3504,1289]
+      - [-3512,1282.5]
+      - [-3513,1296.5]
+      - [-3467,1325.5]
+     comment: tu utilise un gale puis tu vas a l'espèce de cercle avec un trou et tu lance un 1/4 wind bomb turn vers la droite puis tu vas prendre un skew sur une roche donc regarde le clip et clip a cote de la porte metalique puis récuper l'arc yiga qui servira plus tard
+  - .boss(Kogha):
+     notes: .link([Kogha Fight à 1H11:15]https://www.youtube.com/watch?v=jSSCVxr9nDU&t=2963s)
+     comment: Tu fais Kogha comme Arna et dès que tu peux tu t'explose une bombe sur toi pour enlever le ragdoll glitch
+     icon: kogha
+     coord: [-3425,1359]
+- Vah Naboris:
+  - _Warp::Shrine::DaqoChisay:
+     color: green
+  - Enter Naboris:
+     comment: tu vas achter des flèches electric seulement 20 ca sera pour les zoras j'ai oublié dans le clip mais tu as compris quoi juste après Kogha fleches electriques puis Riju
+     icon: naboris-not-finish
+     movements:
+      - [-3868.5,2945]
+      - [-3419,3116.5]
+      - [-2654,3776]
+     notes: .link([ Riju avant Naboris]https://youtu.be/mwoP6POqD4U) .link([Enter Naboris à 1H16:27]https://www.youtube.com/watch?v=jSSCVxr9nDU&t=2963s)
+  - .boss(ThunderBlight):
+     icon: blight
+     comment: tu gardes au moins 2 gales a Naboris pour faire le donjons après si tu en a plus ce n'est pas un probleme mais par contre si tu as que 1 revali en entrant de le donjon tu fais comme Arna et dès qu'il te faut la 2ème tu attends le couldown et si t'as rien en entrant tu attends et aussi récupère bien le receptacle de coeur
+     notes: .link([Naboris Terminals à 1H20:10]https://www.youtube.com/watch?v=jSSCVxr9nDU&t=2963s)
+     coord: [-2628,3716]
+- Souvenirs:
+  - _Warp::Beast::Naboris:
+     color: magenta
+  - _Memory::AncientColumns:
+     movements:
+      - [-2176,1280]
+      - [-3464,-176]
+      - [-3484,-439]
+     comment: setup BLSS à coter du receptacle de coeur puis dirige toi vers le souvenir
+     notes: .link([Ancient Columns]https://youtu.be/2Uf2LHlYaVU)
+  - _Memory::IrchPlain:
+     movements:
+      - [-3492,-429.8125]
+      - [-2064,-540]
+      - [-1450,-736]
+      - [-1078,-1288]
+     comment: Après avoir pris le souvenir tu vas derières toi et y aura un tas de pierre tu setup un BLSS ici et tu iras vers le plateau du tonner puis le souvenir non loin du chateau
+     notes: .link([Irch Plain]https://youtu.be/cwQhgwz6_Rc)
+  - _Memory::HyruleCastle:
+     comment: Après avoir pris le souvenir tu setup encore un BLSS au niveau de la roche grise à gauche de l'arbre puis tu vas arriver en-dessous du souvenir et te setup comme moi pour faire un 1/4 wind bomb en regardant bien le sol pour eviter le lag et tu prends le souvenir
+     notes: .link([Hyrule Castle Memory]https://youtu.be/Ai-lMh9kJck)
+     movements:
+      - [-1069.5,-1302]
+      - [-352.75,-934.25]
+      - [-360.25,-996.25]
+  - _Memory::SanidinPark:
+     comment: Après le souvenir tue le gardien si besoin et setup ton BLSS au niveau de la muraille et part en direction du souvenir
+     notes: .link([Sanidin Park Memory]https://youtu.be/6uu6UeAAano)
+     movements: 
+      - [-359.25,-993.5]
+      - [-752,-296]
+      - [-1605.25,688.25]
+- Zora:
+  - King Zora:
+     icon: village
+     color: yellow
+     movements:
+      - [1839,895]
+      - [1751,773]
+      - [1921,394]
+      - [2184,232]
+      - [3032,-28]
+      - [3328.25,-527]
+     comment: parles au roi Zora pour lancer la quête principale
+     notes: .link([BLSS to Zora Village]https://youtu.be/VKEu4WJwCzU)
+  - Enter Ruta:
+     icon: ruta-not-finish
+     movements:
+      - [3303.125,-474.375]
+      - [3305,-477.125]
+      - [3456.5,-436.5]
+      - [3596,-342]
+     comment: Après tu watch le souvenir puis tu wind bomb 1/4 vers Sidon et Mid-Air 
+     notes: .link([Wind Bomb to Sidon]https://youtu.be/Pc8zlp8Xv30) .link([Et pour entrer dans Ruta à 1h45:35]https://www.youtube.com/watch?v=jSSCVxr9nDU&ab_channel=Arna)
+  - .boss(WaterBlight):
+     movements:
+      - [3670,-170]
+     icon: blight
+     comment: tu fais ruta comme dans le tuto de Arna et tu prends le receptacle de coeur
+     notes: .link([Ruta à 1H48]https://www.youtube.com/watch?v=jSSCVxr9nDU&ab_channel=Arna)
+- Yunobo:
+  # Warping to a divine beast
+  - _Warp::Beast::Ruta:
+     color: pink
+  - _Shrine::DaqaKoh:
+     comment: Apres que tu es Warp a Ruta et fini la quête bien sur tu vas setup BLSS a coté de la roche où tu spawn et aller en direction de Daqa Koh qui servira plus tard
+     notes: .link([BLSS to Shrine]https://youtu.be/4f3AgMwdaZ8)
+  - Goron City:
+     icon: village
+     notes: .link([City]https://youtu.be/LNcOJ1xoNxg)
+     coord: [1710.25,-2445.5]
+     comment: du coup après avoir activé le shrine tu iras faire un wind bomb 1/4 vers goron city et parler au goron
+  - Mine Abnadonnée:
+     comment: je te laisse regarder le tuto de Arna en AD il explique bien de mémoire 
+     notes: .link([Yunobo à 1H33 ]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     icon: mine
+     movements:
+      - [1703,-2435]
+      - [1756.5,-2542.5]
+      - [1561,-2901.5]
+      - [1624.5,-2933]
+- Rudania:
+  - Pont:
+     color: blue
+     icon: pont
+     movements: 
+      - [1625.875,-2905]
+      - [1743,-2584.5]
+      - [1715,-2444]
+      - [1705,-2435.75]
+      - [2179,-2328]
+     comment: tu retournes voir le goron, puis aprés tu vas aller au meme rocher que quand tu as lancé ton wind bomb pour la mine et aller au shrine puis tuer les moblins et activer le pont
+     notes: .link([De City à Pont]https://youtu.be/V2zBUyz2pXc)
+  - Enter Rudania:
+     icon: rudania-not-finish
+     movements:
+      - [2292,-2385]
+      - [2495,-2274]
+      - [2696,-2353]
+      - [2774,-2486]
+      - [2793,-2651]
+     comment: Du coup je te laisse regarder Arna parce que sinon je vais te sortir un pavé
+     notes: .link([Enter Rudania à 1H56]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+  - .boss(FireBlight):
+     comment: Tu fais comme Arna dans son tuto et tu prends receptacle et fini la quête
+     icon: blight
+     notes: .link([Rudania Terminals 2H02:50]https://www.youtube.com/watch?v=jSSCVxr9nDU)
+     coord: [2536,-2602]
+- Best Ending:
+  - _Npc::Goron<Bludo>:
+     color: Aquamarine
+     coord: [1714,-2446.5]
+  - _Memory::EldinCanyon:
+     notes: .link([Wind Bomb to Memory]https://youtu.be/OvleU2Gh6WE)
+     comment: Après tu va sur le même caillou que quand tu as setup ton Wind Bomb de t'a l heure puis t'essaye d'aller au shrine avec soit des wind bomb 1/4 ou sinon tu fais comme moi en mid air
+     movements:
+      - [1703.375,-2436.25]
+      - [1470,-2162]
+      - [1418,-1722]
+      - [1414.5,-1544]
+  # Warping to a divine beast
+  - _Warp::Beast::Rudania
+  - _Memory::SpringofPower:
+     comment: Tu te tp a Rudania et tu vas faire un des BLSS les plus chiant lancer selon moi du coup regarde bien mon clip mais le but c'est d'allé à la source du courage
+     notes: .link([Rudania to Memory]https://youtu.be/DnaDWs6-y4I)
+     movements:
+      - [2465.125,-2531.25]
+      - [3744,-2654.5]
+  # Warping to tech labs
+  - _Warp::TechLab::Hateno
+  - Duplication de Coeur:
+     notes: Avant de faire le glitch save manuelle quitte et relance le jeu pour désactiver l'IST, pour ce glitch regarde vrm mon clip c'es beaucoup trop dur a expliquer mais juste il te faut 13 coeurs minimum et quand tu sauras sur dans le shrine avec le glitch de l'apparatus en mode le snap qui active en meme temps le terminal les inputs sont ZL+L+Accroupi en meme temps et apres que t pris en photo tu save la photo et tu spam + pour retourner dans l'inventaire puis tu portes un item n'importe lequel pui tu fais ++ puis tu retire l'item et tu regardes un souvenir et tu retourne in game puis reload et pour arreter le glicth de L'Apparatus qui fait que tu tombes vite avec la paravoile, après que tu es les 13 coeurs tu save manuelle et tu la reload et le glitch est terminé
+     comment: .link([Glitch Aparatus]https://youtu.be/8N6E6KgZHic) 
+     icon: IST
+     movements:
+      - [3310,2195]
+      - [3388,2216.5]
+  - _Warp::Shrine::TalohNaeg:
+     comment: Après que t'es reload pour enlever le glicth de l'apparatus tu tp a Kak
+     color: purple
+  - Impa:
+     icon: impa
+     coord: [1779.25,985.75]
+     comment: tu vas voir Impa pour valider toutes les quêtes et qu'elle te donne le dernier souvenir
+  - Great Fairy Quest: 
+     icon: quest
+     notes: .link([Quest]https://youtu.be/MRJIIH9r4dI)
+     movements:
+      - [1826,983.75]
+      - [1841,894]
+      - [1970.5,857.5]
+      - [1878.5,902]
+     comment: Après avoir parler a Impa normalement si tout est bon tu as le peintre à coter de la statue et tu lui parles après tu remonte prendre un screen de la fontaine quand elle est ouverte et tu lui donne
+  - Final Memory:
+      icon: memory-final
+      movements:
+        - [1841.25,891.375] 
+        - [1908.125,1057.625]
+        - [1950,1126]
+        - [2021,1184]
+        - [2097,1238]
+        - [2119,1357]
+        - [1983.90, 124.12, 1912.69]
+      comment: tu retournes au setup pour aller a Hateno pour le BLSS sauf que la on va au dernier souvenir pour apres commencer les DLCs
+- Great Plateau DLC:
+  # Warping to a tower
+  - _Warp::Tower::GreatPlateau:
+     color: indigo
+  - Tétralame:
+     icon: tétralame
+     movements: 
+      - [-1050,1816.5]
+      - [-1097.75,1876.25]
+     comment: tu vas a SoR cherché la cutscene pour tp et une fois fini tu tp a l'interieur de SoR puis tu vas au terminal du début puis tu la prends puis tu ouvres la porte du point de tp
+     notes: .link([BLSS to SoR]https://youtu.be/EQBP1vEBqLQ)
+  - Enter Yowaka Ita:
+     comment: du coup après avoir récuperé l'arme tu equip les bombs carrées pour casser des arbres et setup un blss et tu sautes au niveau du gros arbres et avec un arc tu tue tous les montres il faut que ton arc de l'aigle tienne au moins de quoi faire ce shrine
+     coord: [-941.9375,1672.1875]
+     icon: shrine-dlc
+     notes: .link([SoR to Shrine et kill monstres]https://youtu.be/_swQXp0I8vQ)
+  - _Shrine::YowakaIta:
+     comment: pour ce shrine tu peux juste le faire en casu
+     notes: .link([Yowaka Ita Shrine]https://youtu.be/ZCaoaQL9VU0)
+  - _Warp::Tower::GreatPlateau
+  - Enter Rohta Chigah:
+     icon: shrine-dlc
+     movements:
+      - [-544.25,1828]
+      - [-517.9375,1799.125]
+     comment: tu tues tous les mobs, quand j'ai tiré sur le sol a un moment c'est pour te dire qu'il y a un lezal donc butte le et fait le gardien une fois que les lezals qui sont proche sont morts
+     notes: .link([Enter Rohta Chigah]https://youtu.be/jyls8JeQUzM)
+  - _Shrine::RohtaChigah:
+     comment: tu peux faire le shrine comme moi et si tu le sens pas fais le a ton rythme mais ma route est quand meme safe malgrès tout
+     notes: .link([Rohta Chigah]https://youtu.be/vzPEvMMNaUE)
+  - _Warp::Shrine::OwaDaim
+  - Enter Ruvo Korbah:
+     comment: tu pars en BLSS direction le point jaune tu tue tous les mobs peut etre pas les chevaux squelletes mais au cas tu les
+     icon: shrine-dlc
+     notes: .link([Enter Ruvo Korbah]https://youtu.be/Fh3gF3c3AqA)
+     movements:
+      - [-777,2130.5]
+      - [-833.625,2144.875]
+  - _Shrine::RuvoKorbah:
+     comment: du coup quand tu es dans le shrine tu tues le golem tu récupères toutes ses armes et tu active l'interupteur puis quand tu es en bas tu vas cryo bounce pour récuper la clé sinon tu fais en casu et pour les 4 derniers golem toi qui voit comment tu t'y prends
+     notes: .link([Ruvo Korbah]https://youtu.be/rEseSIPRRBM)
+  - _Warp::Shrine::KehNamut:
+     comment: tu manges ton plat de résistance au froid quand tu a fini la tp
+  - Enter Etsu Korima:
+     movements:
+      - [-1414.5,1992.5]
+      - [-1301,2096]
+      - [-1236,2240]
+      - [-1216,2111.25]
+     icon: shrine-dlc
+     comment: arriver au point tu tues tous les ennemis sauf chauve souris elles ne comptent pas et tu entres dans le shrine
+     notes: .link([Enter Estu Korima]https://youtu.be/HZNYHS-ap2I)
+  - _Shrine::EtsuKorima:
+     comment: juste tu cours de façon opti comme moi
+     notes: .link([Etsu Korima]https://youtu.be/_6q7v5Au0x8)
+- Vah Naboris DLC:
+  # Warping to a divine beast
+  - _Warp::Beast::Naboris:
+     color: DarkBlue
+     comment: Tp naboris après shrine 
+  - Terminal DLC Naboris:
+     icon: terminal
+     movements:
+      - [-2143.25,2555]
+      - [-1537.25,2926.25]
+     notes: .link([BLSS to Terminal]https://youtu.be/z_8UyzbyKqY)
+     comment: Tu setup BLSS au niveau du recptacle de coeur et tu go en BLSS vers le point jaune  du DLC
+  - Enter Keive Tala:
+     icon: shrine-dlc
+     movements: 
+      - [-2462,3738]
+      - [-2340.125,3901.4375]
+     comment: Tu vas en BLSS to Molduga EX tu fais Urbosa et tu recupères si besoin  les armes et tu lui mets des fleches archéonique quand tu peux pas
+     notes: .link([Molduga]https://youtu.be/TfqkffB8Bsc)
+  - _Shrine::KeiveTala:
+     notes: .link([Shrine]https://youtu.be/v2TCaEMPc4s)
+     comment: Equip flèche electrique et arc de l'aigle 
+  - _Warp::Shrine::DaqoChisay:
+     comment: Warp Shrine Village
+  - Enter Takama Shiri:
+     comment: Va chercher le morse des sables
+     movements: 
+      - [-4894.5,2155.9375]
+     icon: shrine-dlc
+     notes: .link([Morse des sables to Takama Shiri]https://youtu.be/zvACcbcigms)
+  - _Shrine::TakamaShiri:
+     comment: Tu fais un wind bomb instant turn a gauche un tout petit peux 
+     notes: .link([Shrine]https://youtu.be/Ruw7oAia3Ps)
+  - _Warp::Shrine::ShoDantu:
+     comment: Warp shrine a coter des yigas
+  - Yiga Revers:
+     icon: kogha
+     movements:
+      - [-3820,1601]
+      - [-3864,1521]
+      - [-3440,1345]
+      - [-3467,1325.5]
+     comment: Tu tues les yigas et récupères la boule et jette la
+     notes: .link([Yiga Revers]https://youtu.be/8UD37jw8O4M)
+  - _Shrine::KihiroMoh:
+     comment: tu fais juste un wind bomb instant
+     notes: .link([Wind Bomb]https://youtu.be/MCUVzMMsDFM)
+  # Warping to a divine beast
+  - _Warp::Beast::Naboris:
+     comment: .link([Thunder Blight]https://youtu.be/Ar2NKkMXMNc)
+- Vah Medoh DLC:
+  - _Warp::Shrine::AkhVaquot:
+     color: DarkSlateGray
+     
